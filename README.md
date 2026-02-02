@@ -114,6 +114,8 @@ Identifies products frequently purchased together.
 Evaluates stock performance and sell-through rates.
 
 ---
+<img width="1146" height="863" alt="image" src="https://github.com/user-attachments/assets/566fb3a3-dbce-4eb9-921e-dff285f4b808" />
+
 
 ## 📈 Sample Insights
 
